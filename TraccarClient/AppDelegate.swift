@@ -104,7 +104,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             urlComponents.host = userDefaults.string(forKey: "server_address_preference")
             urlComponents.port = userDefaults.integer(forKey: "server_port_preference")
             if urlComponents.port == 0 {
-                urlComponents.port = 5055
+                urlComponents.port = 5011
             }
             
             userDefaults.set(urlComponents.string, forKey: "server_url_preference")

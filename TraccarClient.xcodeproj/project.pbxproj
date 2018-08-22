@@ -37,6 +37,39 @@
 		CEF643271B919FFA00195CEA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEF643241B919FFA00195CEA /* LaunchScreen.xib */; };
 		CEF6433C1B91AA9400195CEA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED4873317DB1BF6007FCF57 /* MainStoryboard.storyboard */; };
 		CEF6433D1B91AA9400195CEA /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = CEF643371B91A94600195CEA /* Localizable.strings */; };
+		F037679C211EE04B00D6A829 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = F037677B211EE04900D6A829 /* Icon-76.png */; };
+		F037679D211EE04B00D6A829 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F037677C211EE04900D6A829 /* Icon-60@2x.png */; };
+		F037679E211EE04B00D6A829 /* Icon-Small20.png in Resources */ = {isa = PBXBuildFile; fileRef = F037677D211EE04900D6A829 /* Icon-Small20.png */; };
+		F037679F211EE04B00D6A829 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F037677E211EE04900D6A829 /* Icon-76@2x.png */; };
+		F03767A0211EE04B00D6A829 /* Icon-76@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F037677F211EE04900D6A829 /* Icon-76@3x.png */; };
+		F03767A1211EE04B00D6A829 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376780211EE04900D6A829 /* Icon-Small@3x.png */; };
+		F03767A2211EE04B00D6A829 /* Icon-Spotlight-40.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376781211EE04900D6A829 /* Icon-Spotlight-40.png */; };
+		F03767A3211EE04B00D6A829 /* icon_20.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376782211EE04900D6A829 /* icon_20.png */; };
+		F03767A4211EE04B00D6A829 /* Icon-57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376783211EE04900D6A829 /* Icon-57@2x.png */; };
+		F03767A5211EE04B00D6A829 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376784211EE04900D6A829 /* Icon-72.png */; };
+		F03767A6211EE04B00D6A829 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376785211EE04900D6A829 /* Icon.png */; };
+		F03767A7211EE04B00D6A829 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = F0376786211EE04900D6A829 /* iTunesArtwork */; };
+		F03767A8211EE04B00D6A829 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376787211EE04900D6A829 /* Icon-Small-50@2x.png */; };
+		F03767A9211EE04B00D6A829 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376788211EE04900D6A829 /* Icon-60.png */; };
+		F03767AA211EE04B00D6A829 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376789211EE04A00D6A829 /* Icon-72@2x.png */; };
+		F03767AB211EE04B00D6A829 /* Icon-Small29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F037678A211EE04A00D6A829 /* Icon-Small29@2x.png */; };
+		F03767AC211EE04B00D6A829 /* Icon-Small29.png in Resources */ = {isa = PBXBuildFile; fileRef = F037678B211EE04A00D6A829 /* Icon-Small29.png */; };
+		F03767AD211EE04B00D6A829 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = F037678C211EE04A00D6A829 /* Icon-Small.png */; };
+		F03767AE211EE04B00D6A829 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F037678D211EE04A00D6A829 /* Icon-60@3x.png */; };
+		F03767AF211EE04B00D6A829 /* Icon-Spotlight-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F037678E211EE04A00D6A829 /* Icon-Spotlight-40@3x.png */; };
+		F03767B0211EE04B00D6A829 /* Icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = F037678F211EE04A00D6A829 /* Icon-57.png */; };
+		F03767B1211EE04B00D6A829 /* Icon-iPadPro@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376790211EE04A00D6A829 /* Icon-iPadPro@2x.png */; };
+		F03767B2211EE04B00D6A829 /* axsat_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376791211EE04A00D6A829 /* axsat_logo.png */; };
+		F03767B3211EE04B00D6A829 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376792211EE04A00D6A829 /* Icon-Small-50.png */; };
+		F03767B4211EE04B00D6A829 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376793211EE04A00D6A829 /* Icon@2x.png */; };
+		F03767B5211EE04B00D6A829 /* Icon-Spotlight-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376794211EE04A00D6A829 /* Icon-Spotlight-40@2x.png */; };
+		F03767B6211EE04B00D6A829 /* Icon-83_5.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376795211EE04B00D6A829 /* Icon-83_5.png */; };
+		F03767B7211EE04B00D6A829 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376796211EE04B00D6A829 /* Icon-Small@2x.png */; };
+		F03767B8211EE04B00D6A829 /* Icon-Small20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376797211EE04B00D6A829 /* Icon-Small20@2x.png */; };
+		F03767B9211EE04B00D6A829 /* Icon-Small20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376798211EE04B00D6A829 /* Icon-Small20@3x.png */; };
+		F03767BA211EE04B00D6A829 /* ax-sat-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = F0376799211EE04B00D6A829 /* ax-sat-1024.png */; };
+		F03767BB211EE04B00D6A829 /* Icon-Small29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F037679A211EE04B00D6A829 /* Icon-Small29@3x.png */; };
+		F03767BC211EE04B00D6A829 /* iTunesArtwork@2x in Resources */ = {isa = PBXBuildFile; fileRef = F037679B211EE04B00D6A829 /* iTunesArtwork@2x */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -128,6 +161,39 @@
 		CEF643381B91A95700195CEA /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		CEF643391B91A98300195CEA /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		DAE6F390D4C81DC3FB5220CF /* Pods-TraccarClientTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TraccarClientTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TraccarClientTests/Pods-TraccarClientTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F037677B211EE04900D6A829 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		F037677C211EE04900D6A829 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		F037677D211EE04900D6A829 /* Icon-Small20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small20.png"; sourceTree = "<group>"; };
+		F037677E211EE04900D6A829 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		F037677F211EE04900D6A829 /* Icon-76@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@3x.png"; sourceTree = "<group>"; };
+		F0376780211EE04900D6A829 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		F0376781211EE04900D6A829 /* Icon-Spotlight-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40.png"; sourceTree = "<group>"; };
+		F0376782211EE04900D6A829 /* icon_20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_20.png; sourceTree = "<group>"; };
+		F0376783211EE04900D6A829 /* Icon-57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-57@2x.png"; sourceTree = "<group>"; };
+		F0376784211EE04900D6A829 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		F0376785211EE04900D6A829 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		F0376786211EE04900D6A829 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
+		F0376787211EE04900D6A829 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		F0376788211EE04900D6A829 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		F0376789211EE04A00D6A829 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		F037678A211EE04A00D6A829 /* Icon-Small29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small29@2x.png"; sourceTree = "<group>"; };
+		F037678B211EE04A00D6A829 /* Icon-Small29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small29.png"; sourceTree = "<group>"; };
+		F037678C211EE04A00D6A829 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		F037678D211EE04A00D6A829 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		F037678E211EE04A00D6A829 /* Icon-Spotlight-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40@3x.png"; sourceTree = "<group>"; };
+		F037678F211EE04A00D6A829 /* Icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-57.png"; sourceTree = "<group>"; };
+		F0376790211EE04A00D6A829 /* Icon-iPadPro@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-iPadPro@2x.png"; sourceTree = "<group>"; };
+		F0376791211EE04A00D6A829 /* axsat_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = axsat_logo.png; sourceTree = "<group>"; };
+		F0376792211EE04A00D6A829 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		F0376793211EE04A00D6A829 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		F0376794211EE04A00D6A829 /* Icon-Spotlight-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40@2x.png"; sourceTree = "<group>"; };
+		F0376795211EE04B00D6A829 /* Icon-83_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-83_5.png"; sourceTree = "<group>"; };
+		F0376796211EE04B00D6A829 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		F0376797211EE04B00D6A829 /* Icon-Small20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small20@2x.png"; sourceTree = "<group>"; };
+		F0376798211EE04B00D6A829 /* Icon-Small20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small20@3x.png"; sourceTree = "<group>"; };
+		F0376799211EE04B00D6A829 /* ax-sat-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ax-sat-1024.png"; sourceTree = "<group>"; };
+		F037679A211EE04B00D6A829 /* Icon-Small29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small29@3x.png"; sourceTree = "<group>"; };
+		F037679B211EE04B00D6A829 /* iTunesArtwork@2x */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iTunesArtwork@2x"; sourceTree = "<group>"; };
 		F707BBFCCBED121E44B8B5B7 /* Pods-TraccarClientTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TraccarClientTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TraccarClientTests/Pods-TraccarClientTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -197,6 +263,7 @@
 		CED4872117DB1BF6007FCF57 /* TraccarClient */ = {
 			isa = PBXGroup;
 			children = (
+				F037677A211EE00B00D6A829 /* img */,
 				CE5899C71B115C9100ED70D2 /* Images.xcassets */,
 				CED4873317DB1BF6007FCF57 /* MainStoryboard.storyboard */,
 				CEF643241B919FFA00195CEA /* LaunchScreen.xib */,
@@ -261,6 +328,46 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		F037677A211EE00B00D6A829 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				F0376799211EE04B00D6A829 /* ax-sat-1024.png */,
+				F0376791211EE04A00D6A829 /* axsat_logo.png */,
+				F0376782211EE04900D6A829 /* icon_20.png */,
+				F037678F211EE04A00D6A829 /* Icon-57.png */,
+				F0376783211EE04900D6A829 /* Icon-57@2x.png */,
+				F0376788211EE04900D6A829 /* Icon-60.png */,
+				F037677C211EE04900D6A829 /* Icon-60@2x.png */,
+				F037678D211EE04A00D6A829 /* Icon-60@3x.png */,
+				F0376784211EE04900D6A829 /* Icon-72.png */,
+				F0376789211EE04A00D6A829 /* Icon-72@2x.png */,
+				F037677B211EE04900D6A829 /* Icon-76.png */,
+				F037677E211EE04900D6A829 /* Icon-76@2x.png */,
+				F037677F211EE04900D6A829 /* Icon-76@3x.png */,
+				F0376795211EE04B00D6A829 /* Icon-83_5.png */,
+				F0376790211EE04A00D6A829 /* Icon-iPadPro@2x.png */,
+				F0376792211EE04A00D6A829 /* Icon-Small-50.png */,
+				F0376787211EE04900D6A829 /* Icon-Small-50@2x.png */,
+				F037678C211EE04A00D6A829 /* Icon-Small.png */,
+				F0376796211EE04B00D6A829 /* Icon-Small@2x.png */,
+				F0376780211EE04900D6A829 /* Icon-Small@3x.png */,
+				F037677D211EE04900D6A829 /* Icon-Small20.png */,
+				F0376797211EE04B00D6A829 /* Icon-Small20@2x.png */,
+				F0376798211EE04B00D6A829 /* Icon-Small20@3x.png */,
+				F037678B211EE04A00D6A829 /* Icon-Small29.png */,
+				F037678A211EE04A00D6A829 /* Icon-Small29@2x.png */,
+				F037679A211EE04B00D6A829 /* Icon-Small29@3x.png */,
+				F0376781211EE04900D6A829 /* Icon-Spotlight-40.png */,
+				F0376794211EE04A00D6A829 /* Icon-Spotlight-40@2x.png */,
+				F037678E211EE04A00D6A829 /* Icon-Spotlight-40@3x.png */,
+				F0376785211EE04900D6A829 /* Icon.png */,
+				F0376793211EE04A00D6A829 /* Icon@2x.png */,
+				F0376786211EE04900D6A829 /* iTunesArtwork */,
+				F037679B211EE04B00D6A829 /* iTunesArtwork@2x */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -315,7 +422,7 @@
 				ORGANIZATIONNAME = Traccar;
 				TargetAttributes = {
 					CED4871717DB1BF6007FCF57 = {
-						DevelopmentTeam = YW49KTJKFW;
+						DevelopmentTeam = P9CU82UV9F;
 						LastSwiftMigration = 0900;
 					};
 					CEE286CD1B80839600AE7E83 = {
@@ -361,11 +468,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F03767B0211EE04B00D6A829 /* Icon-57.png in Resources */,
+				F03767AE211EE04B00D6A829 /* Icon-60@3x.png in Resources */,
+				F03767A9211EE04B00D6A829 /* Icon-60.png in Resources */,
+				F03767B3211EE04B00D6A829 /* Icon-Small-50.png in Resources */,
+				F03767A8211EE04B00D6A829 /* Icon-Small-50@2x.png in Resources */,
+				F03767BB211EE04B00D6A829 /* Icon-Small29@3x.png in Resources */,
+				F03767AA211EE04B00D6A829 /* Icon-72@2x.png in Resources */,
+				F03767A1211EE04B00D6A829 /* Icon-Small@3x.png in Resources */,
+				F03767A3211EE04B00D6A829 /* icon_20.png in Resources */,
+				F03767BA211EE04B00D6A829 /* ax-sat-1024.png in Resources */,
+				F03767B5211EE04B00D6A829 /* Icon-Spotlight-40@2x.png in Resources */,
 				CEF6433C1B91AA9400195CEA /* MainStoryboard.storyboard in Resources */,
+				F03767B9211EE04B00D6A829 /* Icon-Small20@3x.png in Resources */,
+				F037679F211EE04B00D6A829 /* Icon-76@2x.png in Resources */,
+				F03767A6211EE04B00D6A829 /* Icon.png in Resources */,
+				F03767AB211EE04B00D6A829 /* Icon-Small29@2x.png in Resources */,
 				CEF6433D1B91AA9400195CEA /* Localizable.strings in Resources */,
+				F03767AF211EE04B00D6A829 /* Icon-Spotlight-40@3x.png in Resources */,
+				F03767BC211EE04B00D6A829 /* iTunesArtwork@2x in Resources */,
+				F03767A0211EE04B00D6A829 /* Icon-76@3x.png in Resources */,
+				F03767B2211EE04B00D6A829 /* axsat_logo.png in Resources */,
+				F03767AC211EE04B00D6A829 /* Icon-Small29.png in Resources */,
 				CE5899C81B115C9100ED70D2 /* Images.xcassets in Resources */,
+				F037679D211EE04B00D6A829 /* Icon-60@2x.png in Resources */,
+				F03767B4211EE04B00D6A829 /* Icon@2x.png in Resources */,
+				F03767B7211EE04B00D6A829 /* Icon-Small@2x.png in Resources */,
+				F03767B6211EE04B00D6A829 /* Icon-83_5.png in Resources */,
+				F03767B8211EE04B00D6A829 /* Icon-Small20@2x.png in Resources */,
+				F037679E211EE04B00D6A829 /* Icon-Small20.png in Resources */,
 				CEF643271B919FFA00195CEA /* LaunchScreen.xib in Resources */,
+				F03767A2211EE04B00D6A829 /* Icon-Spotlight-40.png in Resources */,
+				F03767B1211EE04B00D6A829 /* Icon-iPadPro@2x.png in Resources */,
+				F03767A5211EE04B00D6A829 /* Icon-72.png in Resources */,
 				CED4879B17DB1E61007FCF57 /* InAppSettings.bundle in Resources */,
+				F037679C211EE04B00D6A829 /* Icon-76.png in Resources */,
+				F03767A4211EE04B00D6A829 /* Icon-57@2x.png in Resources */,
+				F03767A7211EE04B00D6A829 /* iTunesArtwork in Resources */,
+				F03767AD211EE04B00D6A829 /* Icon-Small.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -595,7 +735,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -615,12 +755,12 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = YW49KTJKFW;
+				DEVELOPMENT_TEAM = P9CU82UV9F;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TraccarClient/TraccarClient-Prefix.pch";
 				INFOPLIST_FILE = "TraccarClient/TraccarClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D FIREBASE";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.traccar.client.$(PRODUCT_NAME:rfc1034identifier)";
@@ -628,7 +768,8 @@
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Google;
@@ -710,7 +851,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -752,7 +893,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -771,12 +912,12 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = YW49KTJKFW;
+				DEVELOPMENT_TEAM = P9CU82UV9F;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TraccarClient/TraccarClient-Prefix.pch";
 				INFOPLIST_FILE = "TraccarClient/TraccarClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.traccar.client.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -784,7 +925,8 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -800,19 +942,20 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = YW49KTJKFW;
+				DEVELOPMENT_TEAM = P9CU82UV9F;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TraccarClient/TraccarClient-Prefix.pch";
 				INFOPLIST_FILE = "TraccarClient/TraccarClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.traccar.client.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -899,7 +1042,7 @@
 				5E3175231F69305200CDF0F5 /* Google */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		CED4873E17DB1BF6007FCF57 /* Build configuration list for PBXNativeTarget "TraccarClient" */ = {
 			isa = XCConfigurationList;
@@ -909,7 +1052,7 @@
 				5E3175241F69305200CDF0F5 /* Google */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		CEE286D61B80839700AE7E83 /* Build configuration list for PBXNativeTarget "TraccarClientTests" */ = {
 			isa = XCConfigurationList;
@@ -919,7 +1062,7 @@
 				5E3175251F69305200CDF0F5 /* Google */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 
